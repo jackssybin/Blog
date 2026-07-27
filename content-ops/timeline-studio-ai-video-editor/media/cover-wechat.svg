@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1080" height="864" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#0f172a"/>
+  <text x="540" y="220" font-family="Noto Sans CJK SC, sans-serif" font-size="48" text-anchor="middle" fill="#ffffff" font-weight="bold">用了半年剪映后</text>
+  <text x="540" y="290" font-family="Noto Sans CJK SC, sans-serif" font-size="38" text-anchor="middle" fill="#94a3b8">我发现这个开源项目能在浏览器里</text>
+  <text x="540" y="360" font-family="Noto Sans CJK SC, sans-serif" font-size="38" text-anchor="middle" fill="#94a3b8">本地剪AI视频</text>
+  
+  <!-- Bottom card -->
+  <rect x="140" y="450" width="800" height="280" rx="16" fill="#1e293b" stroke="#35ead9" stroke-width="3"/>
+  <text x="540" y="530" font-family="Noto Sans CJK SC, sans-serif" font-size="32" text-anchor="middle" fill="#35ead9" font-weight="bold">Timeline Studio</text>
+  <text x="540" y="580" font-family="Noto Sans CJK SC, sans-serif" font-size="26" text-anchor="middle" fill="#ffffff">完全本地运行 · AI配音自动字幕 · 免费开源</text>
+  <text x="540" y="630" font-family="Noto Sans CJK SC, sans-serif" font-size="26" text-anchor="middle" fill="#ffffff">支持 Claude Code 自动化剪辑</text>
+  <text x="540" y="680" font-family="Noto Sans CJK SC, sans-serif" font-size="26" text-anchor="middle" fill="#ffffff">MIT协议 商业可用</text>
+</svg>
